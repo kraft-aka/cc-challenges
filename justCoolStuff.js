@@ -1,5 +1,5 @@
-// Write a function justCoolStuff() that takes in two arrays of strings, and,
-// using the built-in .filter() method, returns an array with the items
+// Write a function justCoolStuff() that takes in two arrays of strings, and, 
+// using the built-in .filter() method, returns an array with the items 
 // that are present in both arrays.
 
 // Write your code here:
